@@ -1,33 +1,40 @@
 *{
-    /* border: 2px solid red; */
     color: #2d3c49;
     font-family: 'Lato', sans-serif;
-  }
-  
-  h2 {
+}
+
+h2 {
     color: #7d97ad;
-  }
+}
   
-  hr {
+hr {
     border-color: #7d97ad;
-  }
-  
-
-.logo-image{
-    width: 80px;
-    height: 100px;
+    border-top: solid;
 }
 
- 
-
-.small-images-container{
-    margin-top: 30px;
-}
-
-.center-image{
+.portifolio-grid {
+    margin: 0 auto;
+    padding:0;    
+    max-width: 1200px;
     width: 100%;
 }
 
-.small-images{
-    width: 100px;
+.portifolio-header {
+    padding-top: 10px;
 }
+
+.portifolio-fullname {
+    margin: 20px 0 10px 0; 
+}
+
+.featured-work {
+    margin-top: 30px;
+}
+
+.portifolio-work {
+    overflow: hidden;
+    border-style: none;
+    padding: 0;
+    border-radius: 0;
+    margin-bottom: 10px;
+  }
