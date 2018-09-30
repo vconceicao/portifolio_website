@@ -1,4 +1,7 @@
 # Portifolio Website
+
+By Vinicius Conceição
+
 This is my portfolio website based in a design mockup. It is a responsive website that will display images, descriptions and links to each of my portfolio projects.
 
 ## Built With
